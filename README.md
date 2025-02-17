@@ -1,5 +1,5 @@
-# SentimentXpert
-
+# FilmScope-AI
+Merging AI and deep search intelligence for movie discovery! 🤖🎬
 # 🎬 IMDb Search Engine
 
 ![IMDb Search](https://img.shields.io/badge/IMDb-Search-yellow?style=for-the-badge&logo=imdb)
